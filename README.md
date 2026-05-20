@@ -25,7 +25,7 @@ Hold down the mouse button to make your character talk and rack up points. The c
 ## Project Structure
 
 ```
-Project2/
+ClassroomBanditJV/
 ├── src/
 │   ├── Project2Runner.java   # Entry point
 │   ├── GamePanel.java        # Main game loop, UI components, scoring
@@ -46,7 +46,10 @@ Project2/
 │       ├── TeacherBack3.png
 │       ├── TeacherBack4.png
 │       └── TeacherLook.png
-└── bin/                      # Compiled .class files
+└── bin/
+|
+└── README.md
+                      # Compiled .class files
 ```
 
 ---
